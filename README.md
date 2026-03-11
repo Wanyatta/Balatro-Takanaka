@@ -6,7 +6,7 @@
 
 2: Download Penumbra: https://github.com/lord-ruby/Penumbra and paste Penumbra-main in your mods folder:
 
-  **[%appdata%] -> [Balatro] -> [Mods]**
+  **%appdata%/Balatro/Mods**
 
 3: If you haven't added any music to Penumbra already, open the Penumbra-main folder and paste the unzipped sounds folder in the assets folder. Otherwise paste the content of the folder within your already existing sounds folder!
 
