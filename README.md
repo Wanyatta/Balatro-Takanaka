@@ -11,3 +11,5 @@
 3: If you haven't added any music to Penumbra already, open the Penumbra-main folder and paste the unzipped sounds folder in the assets folder. Otherwise paste the content of the folder within your already existing sounds folder!
 
 4: This should already work, but if not you can check the Penumbra mod config witihin Balatro and check all the music tracks with Takanaka in their name!
+
+BONUS: If you want to use the slow version, make sure to empty the sounds folder and then paste the files in the balatro_ost_takanaka_style_slow_version.zip file in there!
