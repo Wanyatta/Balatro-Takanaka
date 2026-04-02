@@ -14,3 +14,6 @@
 
 
 4: This should already work, but if not you can check the Penumbra mod config within Balatro and check all the music tracks with Takanaka in their name!
+
+
+**If the game crashes on launch and you've followed every prior step, this is likely due to incompatibility with steam modded. Trying an older version will likely fix this issue.**
