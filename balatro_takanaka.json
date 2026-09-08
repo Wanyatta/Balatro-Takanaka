@@ -7,7 +7,7 @@
   ],
   "description": "Play Balatro with a Masayoshi Takanaka inspired ost!",
   "prefix": "takanatro",
-  "main_file": "main.lua",
+  "main_file": "src/main.lua",
   "version": "1.0.0",
   "priority": 1,
   "badge_colour": "666665",
