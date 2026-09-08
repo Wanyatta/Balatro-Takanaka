@@ -1,15 +1,24 @@
 # Balatro OST replacement mod in the style of Masayoshi Takanaka!
 
 This mod replaces the Balatro OST with custom tracks in the style of Masayoshi Takanaka! 
-It includes both the [original](https://www.youtube.com/watch?v=tksJbDi38tQ) and the [slow](https://www.youtube.com/watch?v=U-_zEzNlfLs) version,
-which can be switched between using a toggle in the mod config!
+It includes both the [original](https://www.youtube.com/watch?v=tksJbDi38tQ) and the [slowed](https://www.youtube.com/watch?v=U-_zEzNlfLs) version,
+which can be switched between in the mods configuration screen!
 
-**How to use:**
+# Usage
 
-1: Prepare Balatro for modding, if you have never done this before I would suggest looking for an up to date guide on the process!
+1. Download and install [Balatro Mod Manager](https://github.com/skyline69/balatro-mod-manager).
 
-2: Download the mod and paste it in your mods folder:
+2. Navigate to the Mods tab inside of **Balatro Mod Manager** and install the latest version of **Steamodded**.
 
-  **%appdata%/Balatro/Mods**
+3. Download the [latest release](https://github.com/Wanyatta/Balatro-Takanaka/archive/refs/heads/main.zip) and extract the folder into your mods folder:
 
-*No AI was used in the creation of this project*
+- **Windows:** `%appdata%/Balatro/Mods`
+
+- **MacOS:** `~/Library/Application Support/Balatro/Mods`
+
+- **Linux:** `~/.local/share/Balatro/Mods`
+
+4. Go to Installed Mods and make sure both **Balatro Takanaka** and **Steamodded** are installed and enabled.
+
+> [!NOTE]
+> No AI was used in the creation of this mod.
