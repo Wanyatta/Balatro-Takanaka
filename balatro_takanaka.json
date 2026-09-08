@@ -1,0 +1,18 @@
+{
+  "id": "takanatro",
+  "name": "Balatro Takanaka",
+  "author": [
+    "Wanye",
+    "Splasboi"
+  ],
+  "description": "Play Balatro with a Masayoshi Takanaka inspired ost!",
+  "prefix": "takanatro",
+  "main_file": "src/main.lua",
+  "version": "1.0.0",
+  "priority": 0,
+  "badge_colour": "666665",
+  "badge_text_colour": "FFFFFF",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-1814a)"
+  ]
+}
