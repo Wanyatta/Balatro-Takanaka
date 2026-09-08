@@ -3,7 +3,7 @@ local music_pitch = 1.0
 local music_volume = 0.3
 local config = SMODS.current_mod.config
 
-if music_slowed then
+if config.music_slowed then
     music_directory = "slowed/"
 end
 
