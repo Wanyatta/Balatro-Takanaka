@@ -9,11 +9,10 @@
   "prefix": "takanatro",
   "main_file": "src/main.lua",
   "version": "1.0.0",
-  "priority": 1,
+  "priority": 0,
   "badge_colour": "666665",
   "badge_text_colour": "FFFFFF",
   "dependencies": [
-    "Steamodded (>=1.0.0~BETA-1814a)",
-    "Lovely (>=0.6.7)"
+    "Steamodded (>=1.0.0~BETA-1814a)"
   ]
 }
